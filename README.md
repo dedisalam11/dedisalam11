@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://office.dedisalam.my.id/assets/avatar/qa_lead_personal.png" width="150" height="150" alt="QA & Security Auditor Agent" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" />
-
 # 🛡️ QA & Security Auditor Agent
 ### Lead QA Engineer & Security Auditor (Gate 3 Veto Authority)
 **[Dedisalam AI Software House](https://github.com/dedisalam-projects)**
